@@ -26,7 +26,7 @@ See the accompanying project reports for explanations and discussions:
 
 <a href='06.TimeSeries_courseproject_report_Giuseppe_Insana.pdf'>06 Time series</a>
 
-And the <a href='ibmMLweatherdata.ipynb'>notebook</a> with the code written and used for those projects.
+And the <a href='ibmMLweatherdata.ipynb'>Jupyter notebook</a> with the code written and used for those projects.
 
 ### Data origin acknowledgement
 Dataset compiled by Huber, Florian (2021); Zenodo. https://doi.org/10.5281/zenodo.4770937
@@ -37,3 +37,9 @@ EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 22-04-2021
 THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
 ```
 Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface air temperature and precipitation series for the European Climate Assessment. Int. J. of Climatol., 22, 1441-1453. Data and metadata available at http://www.ecad.eu
+
+## Copyright
+
+The code provided in this repository is licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
+
+(c) Copyright [Giuseppe Insana](http://insana.net), 2021-
