@@ -27,7 +27,7 @@ See the accompanying project reports for explanations and discussions:
 <a href='06.TimeSeries_courseproject_report_Giuseppe_Insana.pdf'>06 Time series</a>
 
 And the <a href='ibmMLweatherdata.ipynb'>Jupyter notebook</a> with the code written and used for those projects.
-Note: if the version on github is not rendering properly, try [this one, via nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/g-insana/machinelearning/blob/master/ibmMLweatherdata.ipynb).
+Note: if the version on github is not rendering properly, try [this one, via nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/g-insana/machinelearning/blob/main/ibmMLweatherdata.ipynb).
 
 
 ## Data origin acknowledgement
