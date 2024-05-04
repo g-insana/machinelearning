@@ -1,4 +1,5 @@
 # machinelearning
+[![DOI](https://zenodo.org/badge/618019874.svg)](https://zenodo.org/doi/10.5281/zenodo.11113574)
 
 This repository holds the code and the reports for the final projects of the six courses of the [IBM ML specialization](https://www.coursera.org/professional-certificates/ibm-machine-learning)
 
